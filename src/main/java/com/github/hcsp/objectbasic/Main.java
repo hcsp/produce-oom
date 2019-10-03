@@ -9,7 +9,7 @@ public class Main {
         List<List<String>> values = new ArrayList<>();
         int i = 0;
         while(true) {
-            List<String> data = new ArrayList<>(Integer.MAX_VALUE);
+            List<String> data = new ArrayList<>(1000000);
             values.add(data);
         }
     }
