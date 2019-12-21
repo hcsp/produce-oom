@@ -1,8 +1,5 @@
 package com.github.hcsp.objectbasic;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.LinkedList;
 
 public class Main {
     public static void main(String[] args) {
